@@ -1,11 +1,11 @@
-### Work Team
-
-Laura Camila Artunduaga
-Santiago Vasquez Sarauz
-Lewis Rafael Susa Peñate
-
 # UNAD Data Analytics – Phase 4
 ## Household Appliance Energy Prediction
+
+### Work Team
+
+Laura Camila Artunduaga.
+Santiago Vasquez Sarauz.
+Lewis Rafael Susa Peñate.
 
 ### 1. Project Overview
 
